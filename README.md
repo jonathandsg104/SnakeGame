@@ -1,40 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🐍 Snake Game Next.js
 
-## Getting Started
+Um jogo da cobrinha moderno, responsivo e acessível, feito com Next.js + TypeScript!
 
-First, run the development server:
+## 🚀 Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Controles completos:**
+  - Teclado (setas)
+  - Mouse (basta mover o mouse sobre o campo)
+  - Toque (mobile)
+- **Níveis de dificuldade:**
+  - A cada 3 pontos, sobe de nível e a cobrinha fica mais rápida
+  - Até 15 níveis, velocidade mínima de 50ms
+- **Visual moderno:**
+  - Layout responsivo, centralizado e estilizado
+  - Placar, recorde, nível e Game Over destacados
+  - Cores, gradientes e animações suaves
+- **Acessibilidade:**
+  - Totalmente jogável por teclado
+  - Foco visual claro
+  - Instruções para leitores de tela
+- **Compatível com todos os navegadores modernos**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Preview
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+![Snake Game Next.js Preview](public/globe.svg)
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🕹️ Como jogar
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- **Teclado:** Use as setas para controlar a cobrinha
+- **Mouse:** Mova o mouse sobre o campo para virar a cobrinha
+- **Toque:** Arraste o dedo no campo (mobile)
+- A cada 3 pontos, o nível aumenta e a velocidade também!
+- Tente bater o recorde!
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## ▶️ Rodando localmente
