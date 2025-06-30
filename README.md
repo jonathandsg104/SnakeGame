@@ -21,10 +21,6 @@ Um jogo da cobrinha moderno, responsivo e acessível, feito com Next.js + TypeSc
   - Instruções para leitores de tela
 - **Compatível com todos os navegadores modernos**
 
-## 📸 Preview
-
-![Snake Game Next.js Preview](public/globe.svg)
-
 ## 🕹️ Como jogar
 
 - **Teclado:** Use as setas para controlar a cobrinha
